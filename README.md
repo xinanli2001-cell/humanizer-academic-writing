@@ -1,6 +1,8 @@
-# evidence-grounded-academic-writing
+# Humanizer — Academic Writing
 
 [English](README.en.md)
+
+目前原生适配 Codex。仓库提供完整的 `SKILL.md`、中英文参考文件及 `agents/openai.yaml`，采用显式手动触发。仓库名为 `humanizer-academic-writing`；安装目录和调用名保留 `evidence-grounded-academic-writing`，兼容已有使用方式。
 
 一个面向 Codex 的中英文学术写作 skill，用于在证据边界内撰写、翻译、润色和审查学术文本。它强调可核查的主张、准确的主张强度、稳定的术语和适合目标场所的语言，而不把“写得像人”变成编造、改写事实或追逐 AI 检测器分数。
 
@@ -36,7 +38,7 @@ $evidence-grounded-academic-writing
 推荐将公开仓库克隆到 Codex skills 目录：
 
 ```bash
-git clone https://github.com/xinanli2001-cell/evidence-grounded-academic-writing \
+git clone https://github.com/xinanli2001-cell/humanizer-academic-writing \
   ~/.codex/skills/evidence-grounded-academic-writing
 ```
 

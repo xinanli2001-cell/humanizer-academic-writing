@@ -1,6 +1,8 @@
-# evidence-grounded-academic-writing
+# Humanizer — Academic Writing
 
 [中文](README.md)
+
+Currently natively adapted for Codex. The repository includes `SKILL.md`, Chinese and English reference files, and `agents/openai.yaml`, with explicit manual invocation. The repository is named `humanizer-academic-writing`; the installation directory and invocation name remain `evidence-grounded-academic-writing` for existing users.
 
 A Codex skill for evidence-grounded academic writing in Chinese and English. It supports drafting, translation, polishing, and review while keeping claims verifiable, claim strength accurate, terminology stable, and prose appropriate to the target venue. It does not turn “sounding human” into invented facts, changed findings, or optimisation for an AI-detector score.
 
@@ -36,7 +38,7 @@ All modes apply semantic locks, source-aware citation checks, author-control bou
 The recommended installation is to clone the public repository into the Codex skills directory:
 
 ```bash
-git clone https://github.com/xinanli2001-cell/evidence-grounded-academic-writing \
+git clone https://github.com/xinanli2001-cell/humanizer-academic-writing \
   ~/.codex/skills/evidence-grounded-academic-writing
 ```
 
