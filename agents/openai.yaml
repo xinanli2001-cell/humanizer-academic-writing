@@ -1,0 +1,6 @@
+interface:
+  display_name: "使用我的中英文学术写作 skill"
+  short_description: "约束中英文学术文本的证据、逻辑、翻译忠实度与非模板化表达"
+  default_prompt: "使用 $evidence-grounded-academic-writing，以证据可核查、主张强度准确且符合目标期刊规范的中文或英文学术语言撰写、翻译、润色或审查文本。"
+policy:
+  allow_implicit_invocation: false
