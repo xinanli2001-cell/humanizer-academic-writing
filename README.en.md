@@ -62,7 +62,7 @@ evidence-grounded-academic-writing/
 
 ## Style boundaries
 
-The “roughly 30% conversational, 70% academic” guidance in the reference files is a preference about reading impression, not an empirical measure, word quota, or acceptance criterion. The style files are editable. Explicit requirements from a journal, conference, school, or publisher—and the author’s supplied examples and materials—take priority within their applicable scope.
+The writing rules have been restored to their state before 21:03 on 13 September 2026 (China Standard Time), without conversational-language ratios or mechanical wording quotas. The style files are editable. Explicit requirements from a journal, conference, school, or publisher—and the author’s supplied examples and materials—take priority within their applicable scope.
 
 This skill does not claim to identify AI authorship, lower or pass any AI detector, or use detector scores as evidence of quality. Authors must still verify facts, citations, disclosures, authorship, ethics, licensing, and venue requirements before submission.
 
